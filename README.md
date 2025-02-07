@@ -1,2 +1,3 @@
 # MSc-Python-Quantum-Objectivity
-Results from one of the attached papers were reproduced using Qiskit.
+Using Qiskit, the results contained in Figure 7 of the attached paper "Witnessing non-objectivity in the framework of strong quantum Darwinism, Thao P Le and Alexandra Olaya-Castro 2020 Quantum Sci. Technol. 5 045012(2020)" were reproduced. These results focus on the creating of a quantum circuit to act as a witness to detect non-objectivity through the comparison of the time evolution of a system-environment state with and without the objectivity operation applied.\
+This project was completed with the assitance of Prof. Felix Binder and Dr Alessandro Candeloro from the Quantum Information Theory Group in Trinity College Dublin.
